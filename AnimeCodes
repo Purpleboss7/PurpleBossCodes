@@ -177,3 +177,33 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "animeanime"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "animelegends"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "animeupdate"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "coins5min"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "newupdate1000"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
