@@ -1,0 +1,179 @@
+local args = {
+    [1] = "ilovepets"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "iloveswords"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "luckeggs"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "likes1000"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "legendslegends"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "maniblox"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "megaluck"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+
+
+local args = {
+    [1] = "members10k"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+
+
+local args = {
+    [1] = "mergeanimelegends"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+
+local args = {
+    [1] = "newupdate"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+
+
+local args = {
+    [1] = "release"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+
+
+local args = {
+    [1] = "sorryconsole"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "xmarcelo"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "xmarcelo2"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "tiktoklegends"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "tiktok"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "tiktokfan"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "superluck"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "strongsword"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "stronglegends"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "mergeanimelegends"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "release"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "iloveanime"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "ilovecoins"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "ilovelegends"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "crystals1000"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "coinsboost"
+}
+
+game:GetService("ReplicatedStorage").src.Packages.Knit.Services.CodesService.__comm__.RF.OnCodeRedeemRequest:InvokeServer(unpack(args))
